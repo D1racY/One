@@ -191,3 +191,12 @@
 [23:34:49] [Server thread/INFO]: Nyehtz was slain by Zombie
 [23:37:07] [Server thread/INFO]: Nyehtz has made the advancement [Acquire Hardware]
 [23:42:05] [Server thread/INFO]: Nyehtz has made the advancement [Isn't It Iron Pick]
+[23:45:03] [Server thread/INFO]: Mirindiwis has made the advancement [Sweet Dreams]
+[23:45:05] [Server thread/INFO]: Nyehtz has made the advancement [Sweet Dreams]
+[23:48:06] [Server thread/WARN]: Mismatch in destroy block pos: iw{x=0, y=60, z=0} iw{x=1, y=59, z=0}
+[23:48:44] [Server thread/INFO]: Nyehtz lost connection: Disconnected
+[23:48:44] [Server thread/INFO]: Nyehtz left the game
+[23:48:45] [Server thread/WARN]: handleDisconnection() called twice
+[23:49:16] [Server thread/INFO]: Nyehtz[/127.14.206.236:47597] logged in with entity id 1292 at (0.582143552996639, 61.0, 0.7526867189173168)
+[23:49:16] [Server thread/INFO]: Nyehtz joined the game
+[23:52:07] [Server thread/INFO]: Mirindiwis has made the advancement [Isn't It Iron Pick]
