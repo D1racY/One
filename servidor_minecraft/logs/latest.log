@@ -200,3 +200,8 @@
 [23:49:16] [Server thread/INFO]: Nyehtz[/127.14.206.236:47597] logged in with entity id 1292 at (0.582143552996639, 61.0, 0.7526867189173168)
 [23:49:16] [Server thread/INFO]: Nyehtz joined the game
 [23:52:07] [Server thread/INFO]: Mirindiwis has made the advancement [Isn't It Iron Pick]
+[23:55:45] [Server thread/INFO]: Nyehtz was shot by Stray
+[23:55:56] [Server thread/INFO]: Nyehtz has made the advancement [Monster Hunter]
+[23:56:04] [Server thread/WARN]: Mismatch in destroy block pos: iw{x=0, y=60, z=-1} iw{x=0, y=60, z=0}
+[23:56:06] [Server thread/WARN]: Mismatch in destroy block pos: iw{x=0, y=59, z=0} iw{x=0, y=60, z=0}
+[23:58:20] [Server thread/WARN]: Mismatch in destroy block pos: iw{x=0, y=60, z=1} iw{x=0, y=60, z=0}
