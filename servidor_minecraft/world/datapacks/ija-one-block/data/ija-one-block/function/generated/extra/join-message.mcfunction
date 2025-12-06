@@ -1,0 +1,4 @@
+# Copyright: OneBlock by IJAMinecraft
+# https://ijaminecraft.com/map/oneblock/
+
+tellraw @s [{"translate":"ija.oneblock.tl.5","fallback":"\u00A7aLoaded\u00A7r: %s by IJAMinecraft","color":"white","with":[{"text":"OneBlock","color":"gold","click_event":{"action":"open_url","url":"https://ijaminecraft.com/map/oneblock/"},"hover_event":{"action":"show_text","value":{"translate":"ija.oneblock.tl.35","fallback":"Visit the official OneBlock website!"}}}]},"\n ➡ ",{"translate":"ija.oneblock.tl.2f","fallback":"Click to open the settings.","color":"gray","click_event":{"action":"run_command","command":"trigger ija-a4-trigger set 1"},"hover_event":{"action":"show_text","value":{"translate":"ija.oneblock.tl.2g","fallback":"Open the settings menu."}}}]

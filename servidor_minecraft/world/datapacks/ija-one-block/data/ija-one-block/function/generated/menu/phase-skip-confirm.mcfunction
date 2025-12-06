@@ -1,0 +1,7 @@
+# Copyright: OneBlock by IJAMinecraft
+# https://ijaminecraft.com/map/oneblock/
+
+playsound minecraft:ui.button.click master @s ~ ~ ~ .2 .7 .2
+tellraw @s ["\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n ",{"translate":"ija.oneblock.tl.2t","fallback":"Skip to Phase","color":"gray"},"\n ",{"translate":"ija.oneblock.tl.2w","fallback":"Changes the infinite block to a selected phase!","color":"white"},"\n"]
+tellraw @s [{"translate":" %s\n ","color":"red","with":[{"translate":"ija.oneblock.tl.2k","fallback":"To proceed, you either need to have cheats enabled (Singleplayer) or operator rights (Multiplayer). Otherwise, you'll receive an error."}]},{"translate":"[%s]","color":"gold","with":[{"translate":"ija.oneblock.tl.2l","fallback":"Proceed"}],"click_event":{"action":"run_command","command":"function ija-one-block:generated/menu/phase-skip-main"},"hover_event":{"action":"show_text","value":{"translate":"ija.oneblock.tl.2m","fallback":"Click to proceed."}}}]
+tellraw @s ["\n ",{"translate":"[%s]","color":"red","with":[{"translate":"ija.oneblock.tl.22","fallback":"Back"}],"click_event":{"action":"run_command","command":"trigger ija-a4-trigger set 1"},"hover_event":{"action":"show_text","value":{"translate":"ija.oneblock.tl.23","fallback":"Click to go back."}}},"\n"]
